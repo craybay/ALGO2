@@ -41,6 +41,16 @@ public class OpdrachtenDatabase {
         
     }
     
+    
+    public boolean vervangOpdracht(Opdracht opdrachtOud , Opdracht opdrachtNieuw ) throws IllegalArgumentException{
+        
+        //exeption handeling
+        
+        
+        
+        return false;
+    }
+    
 }
     
     
