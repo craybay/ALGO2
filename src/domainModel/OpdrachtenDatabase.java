@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.io.*;
 /**
  *
- * @author 543237
+ * @author 543237 and 544273 LOL ;)
  */
 public class OpdrachtenDatabase {
     private String bestand;
