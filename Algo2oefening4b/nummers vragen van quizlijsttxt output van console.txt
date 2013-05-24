@@ -1,0 +1,14 @@
+Hier heb ik even de nummers opgeschreven
+van de vragen die via de testui 
+van deze opdracht worden getoont op het scherm.
+Dit heb ik gebruikt om zelf manueel even
+na te kijken of mijn resultaten wel in order waren.
+
+SchoolQuiz
+10 20 22
+
+Slimste Mens
+22
+
+Pappenheimers
+11 12 22
