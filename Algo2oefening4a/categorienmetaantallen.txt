@@ -1,0 +1,4 @@
+Aardrijkskunde	16
+Nederlands	2
+Wetenschappen	19
+Wiskunde	16
